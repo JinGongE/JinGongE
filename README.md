@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**JinGongE/JinGongE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! my name is JinGongE 😄
 
-Here are some ideas to get you started:
+I am a high school student 🏫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in Backend 🖥 and Application📱 development!
+
+---
+### 🚀Skills
+![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<br></br>
+
+### 🛠Tools
+![js](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![js](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<br></br>
+
+### 📖Learning
+![js](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java-sharp&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+<br></br>
+
+### 👍Likes
+![js](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+<br></br>
+
+### 📧Contact
+![js](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<br></br>
+
+---
+### 📘Stats
+
+![JinGongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinGongE&hide=prs,issues&show_icons=true&theme=midnight-purple)
+<br></br>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jingonge)](https://solved.ac/jingonge)
+
+
+
