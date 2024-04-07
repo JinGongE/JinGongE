@@ -31,7 +31,7 @@ I am interested in Backend 🖥 and Application📱 development!
 
 ![JinGongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinGongE&hide=prs,issues&show_icons=true&theme=midnight-purple)
 <br></br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jingonge)](https://solved.ac/jingonge)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jingonge)](https://solved.ac/jingonge)
 
 
 
