@@ -32,6 +32,6 @@ I am interested in Backend 🖥 and Application📱 development!
 ![JinGongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinGongE&hide=prs,issues&show_icons=true&theme=midnight-purple)
 <br></br>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jingonge)](https://solved.ac/jingonge)
-
-
+<br></br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinGongE%2Fhit-counter&count_bg=%2379C83D&title_bg=%23363434&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
