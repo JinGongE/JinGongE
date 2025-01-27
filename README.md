@@ -1,9 +1,9 @@
 
 ## Hello! my name is JinGongE 😄
 
-I am a high school student 🏫
+I'm interested in development using AI!
 
-I am interested in Backend 🖥 and Application📱 development!
+I want to be a productive developer who implements ideas.
 
 ---
 ### 🚀Skills
