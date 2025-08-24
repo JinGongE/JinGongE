@@ -29,8 +29,6 @@ I want to be a productive developer who implements ideas.
 ---
 ### 📘Stats
 
-![JinGongE's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinGongE&hide=prs,issues&show_icons=true&theme=midnight-purple)
-<br></br>
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=jingonge)](https://solved.ac/jingonge)
 <br></br>
 
