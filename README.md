@@ -3,7 +3,7 @@
  
 ![js](https://img.shields.io/badge/I-ee8b4a?style=for-the-badge)
 ![js](https://img.shields.io/badge/LOVE-ee8b4a?style=for-the-badge)
-![js](https://img.shields.io/badge/Claude_Code-ee8b4a?style=for-the-badge&logo=anthropic&logoColor=white)
+![js](https://img.shields.io/badge/Claude_Code-ee8b4a?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 ### 🚀Skills
