@@ -1,9 +1,9 @@
 
 ## Hello! my name is JinGongE 😄
-
-I'm interested in development using AI!
-
-I want to be a productive developer who implements ideas.
+ 
+![js](https://img.shields.io/badge/I-ee8b4a?style=for-the-badge)
+![js](https://img.shields.io/badge/LOVE-ee8b4a?style=for-the-badge)
+![js](https://img.shields.io/badge/Claude_Code-ee8b4a?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 ### 🚀Skills
